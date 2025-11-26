@@ -1,6 +1,6 @@
 # 🦴 Bone Fracture Detection System
 
-A comprehensive deep learning solution for detecting and segmenting bone fractures in X-ray images, optimized for MacBook M4 Pro.
+A comprehensive deep learning solution for detecting and segmenting bone fractures in X-ray images.
 
 ## 📋 Project Overview
 
@@ -295,7 +295,6 @@ This project is for educational purposes.
 
 - Kaggle dataset provider: pkdarabi
 - PyTorch community for excellent documentation
-- MacBook M4 Pro optimization guides
 
 ---
 
