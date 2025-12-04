@@ -45,8 +45,6 @@ env/
 .idea/
 
 # Large model files
-*.pth
-*.pt
 *.h5
 *.onnx
 *.pkl
