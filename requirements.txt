@@ -1,0 +1,14 @@
+# Minimal Python dependencies for Bone Fracture Detection
+# Note: For torch, install the appropriate build for your platform (CPU/CUDA) via https://pytorch.org
+torch
+torchvision
+streamlit
+opencv-python
+numpy
+Pillow
+matplotlib
+tqdm
+seaborn
+pyyaml
+# Optional (used for dataset analysis/visuals)
+# scikit-image
